@@ -1,5 +1,7 @@
 # California Digital Humanities Research Institute
 
+https://calidhri.hcommons.org/
+
 April 27-29, 2022
 
 
